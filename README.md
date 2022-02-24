@@ -1,7 +1,7 @@
 ### E aeeee! Eu sou o Diogo! ✌️
 
-- 👨‍💻 Trabalho com Back-End e Front-End
-- 🐍 Estudando Python
+- 👨‍💻 Trabalho como Desenvolvedor Back-End
+- 🐍 Eterno estudante de Python
 
  <div>
   <a href="https://github.com/dio-silvestre">
