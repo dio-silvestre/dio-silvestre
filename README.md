@@ -1,7 +1,7 @@
 ### E aeeee! Eu sou o Diogo! ✌️
 
 - 👨‍💻 Trabalho como Desenvolvedor Back-End
-- 🐍 Eterno estudante de Python
+- 📚 Eterno aprendiz
 
  <div>
   <a href="https://github.com/dio-silvestre">
@@ -20,7 +20,6 @@
    <img align="center" alt="Dio-Heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
    <img align="center" alt="Dio-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
    <img align="center" alt="Dio-Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-   <img align="center" alt="Dio-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
    <img align="center" alt="Dio-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
    <img align="center" alt="Dio-PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
  </div>
